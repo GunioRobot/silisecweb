@@ -2,85 +2,84 @@
 <articles xmlns="http://silisec.org/apps/article-1">
 
   <article>
-        <title>Next silisec: November 5th</title>
-        <author>3141592f</author>
-        <date>2009-10-29</date>
-        <body xmlns="http://www.w3.org/1999/xhtml">
-          <p><em>silisec</em> is returning to Sunnyvale, this time at
-          <a href="http://www.stjohnsgrill.com/">St. John’s Grill</a>.
-          Meet us there around <strong>7pm on Thursday November
-          5th</strong>!</p>
-          <div class="indent">
+    <title>Next silisec: November 5th</title>
+    <author>3141592f</author>
+    <date>2009-10-29</date>
+    <body xmlns="http://www.w3.org/1999/xhtml">
+      <p><em>silisec</em> is returning to Sunnyvale, this time at
+      <a href="http://www.stjohnsgrill.com/">St. John’s Grill</a>.
+      Meet us there around <strong>7pm on Thursday November
+      5th</strong>!</p>
+      <div class="indent">
 <iframe width="300" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=st+johns,+sunnyvale,+ca&amp;sll=37.338798,-122.007369&amp;sspn=0.010884,0.008948&amp;ie=UTF8&amp;cid=7790390675902109175&amp;ll=37.383389,-121.994419&amp;spn=0.04092,0.051498&amp;z=13&amp;output=embed&amp;iwloc=near"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=st+johns,+sunnyvale,+ca&amp;sll=37.338798,-122.007369&amp;sspn=0.010884,0.008948&amp;ie=UTF8&amp;cid=7790390675902109175&amp;ll=37.383389,-121.994419&amp;spn=0.04092,0.051498&amp;z=13" style="text-align:left">View Larger Map</a></small>
-          </div>
-          <p />
-        </body>
-  </article>
-  <article>
-        <title>Next silisec: October 8</title>
-        <author>jvidrine</author>
-        <date>2009-10-02</date>
-        <body xmlns="http://www.w3.org/1999/xhtml">
-          <p><em>silisec</em> is returning to Mountain View, this time
-          at <a href="http://www.ststephensgreen.com/">St. Stephens
-          Green</a>.  Meet us there around <strong>7pm on Thursday
-          October 8th</strong>!</p>
-          <p>St. Stephens Green is a five minute walk from the
-          Caltrain station.</p>
-        </body>
-  </article>
-  <article>
-        <title>Next silisec: September 1</title>
-        <author>jvidrine</author>
-        <date>2009-08-28</date>
-        <body xmlns="http://www.w3.org/1999/xhtml">
-          <p>After a brief hiatus for Black Hat / DEFCON, it’s
-          <em>silisec</em> time again!</p>
-          <p>This month we’ll meet up at
-          <a href="http://pedrosrestaurants.com/">Pedro’s Restaurant
-          &amp; Cantina</a> near Great America, off the 101.
-          Looking forward to seeing you <strong>Tuesday September 1st,
-          starting around 7pm!</strong></p>
-        </body>
-  </article>
-  <article>
-        <title>Next silisec: July 9</title>
-        <author>jvidrine</author>
-        <date>2009-07-04</date>
-        <body xmlns="http://www.w3.org/1999/xhtml">
-          <p>Hey, Happy Independence Day, Everyone!</p>
-          <p>This week brings a new <em>silisec</em> meetup in Mountain View, at
-          <a href="http://www.tiedhouse.com/mtview/">Tied House Café and Brewery</a>,
-          a few blocks west from the Caltrain station.
-          Look for your secpals sliding into inebriation Thursday July 9th,
-          starting around 7pm!</p>
-        </body>
-  </article>
-  <article>
-        <title>Baysec is June 23</title>
-        <author>jvidrine</author>
-        <date>2009-06-16</date>
-        <body xmlns="http://www.w3.org/1999/xhtml">
-          <p>Of course <em>silisec</em> is not the only Citysec meetup
-          in the San Francisco Bay Area, nor even the first.  In fact,
-          <em>silisec</em> got its start through folks who just couldn’t get
-          enough of <a href="http://www.baysec.net">Baysec</a>.  Check out
-          the next Baysec meetup at
-          <a href="http://www.kateobriens.com/">Kate O’Briens</a> in
-          downtown San Francisco!</p>
+      </div>
+      <p />
     </body>
   </article>
   <article>
-        <title>Next silisec: June 3</title>
-        <author>jvidrine</author>
-        <date>2009-05-26</date>
-        <body xmlns="http://www.w3.org/1999/xhtml">
-          <p>The next <em>silisec</em> meetup is June 3rd starting 6:30pm
-          at <a href="http://www.stjohnsgrill.com/">St John’s Bar &amp; Grill</a>
-          in Sunnyvale.  See you there!</p>
-        </body>
+    <title>Next silisec: October 8</title>
+    <author>jvidrine</author>
+    <date>2009-10-02</date>
+    <body xmlns="http://www.w3.org/1999/xhtml">
+      <p><em>silisec</em> is returning to Mountain View, this time
+      at <a href="http://www.ststephensgreen.com/">St. Stephens
+      Green</a>.  Meet us there around <strong>7pm on Thursday
+      October 8th</strong>!</p>
+      <p>St. Stephens Green is a five minute walk from the
+      Caltrain station.</p>
+    </body>
   </article>
-
+  <article>
+    <title>Next silisec: September 1</title>
+    <author>jvidrine</author>
+    <date>2009-08-28</date>
+    <body xmlns="http://www.w3.org/1999/xhtml">
+      <p>After a brief hiatus for Black Hat / DEFCON, it’s
+      <em>silisec</em> time again!</p>
+      <p>This month we’ll meet up at
+      <a href="http://pedrosrestaurants.com/">Pedro’s Restaurant
+      &amp; Cantina</a> near Great America, off the 101.
+      Looking forward to seeing you <strong>Tuesday September 1st,
+      starting around 7pm!</strong></p>
+    </body>
+  </article>
+  <article>
+    <title>Next silisec: July 9</title>
+    <author>jvidrine</author>
+    <date>2009-07-04</date>
+    <body xmlns="http://www.w3.org/1999/xhtml">
+      <p>Hey, Happy Independence Day, Everyone!</p>
+      <p>This week brings a new <em>silisec</em> meetup in Mountain View, at
+      <a href="http://www.tiedhouse.com/mtview/">Tied House Café and Brewery</a>,
+      a few blocks west from the Caltrain station.
+      Look for your secpals sliding into inebriation Thursday July 9th,
+      starting around 7pm!</p>
+    </body>
+  </article>
+  <article>
+    <title>Baysec is June 23</title>
+    <author>jvidrine</author>
+    <date>2009-06-16</date>
+    <body xmlns="http://www.w3.org/1999/xhtml">
+      <p>Of course <em>silisec</em> is not the only Citysec meetup
+      in the San Francisco Bay Area, nor even the first.  In fact,
+      <em>silisec</em> got its start through folks who just couldn’t get
+      enough of <a href="http://www.baysec.net">Baysec</a>.  Check out
+      the next Baysec meetup at
+      <a href="http://www.kateobriens.com/">Kate O’Briens</a> in
+      downtown San Francisco!</p>
+    </body>
+  </article>
+  <article>
+    <title>Next silisec: June 3</title>
+    <author>jvidrine</author>
+    <date>2009-05-26</date>
+    <body xmlns="http://www.w3.org/1999/xhtml">
+      <p>The next <em>silisec</em> meetup is June 3rd starting 6:30pm
+      at <a href="http://www.stjohnsgrill.com/">St John’s Bar &amp; Grill</a>
+      in Sunnyvale.  See you there!</p>
+    </body>
+  </article>
   <article>
     <title>Next silisec: May 6</title>
     <author>jvidrine</author>
@@ -91,7 +90,6 @@
       Cupertino.  See you there!</p>
     </body>
   </article>
-
   <article>
     <title>New CitySec meetup: silisec</title>
     <author>jvidrine</author>
