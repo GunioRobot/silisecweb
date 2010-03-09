@@ -2,6 +2,23 @@
 <articles xmlns="http://silisec.org/apps/article-1">
 
   <article>
+    <title>Next silisec: March 18th</title>
+    <author>jvidrine</author>
+    <date>2010-03-09</date>
+    <body xmlns="http://www.w3.org/1999/xhtml">
+      <p>Refresh your Saint Paddy’s Day hangovers with your
+      favorite security crew at this month’s <em>silisec</em>.
+      Meetup around <strong>7pm on Thursday March 18th</strong>
+      at <a href="http://www.faultlinebrewing.com/">the Faultline
+      Brewing Company</a> in Sunnyvale.</p>
+      <div class="indent">
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=faultline+brewery,+sunnyvale,+ca&amp;sll=37.737796,-122.414474&amp;sspn=0.009588,0.013797&amp;ie=UTF8&amp;hq=faultline+brewery,&amp;hnear=Sunnyvale,+CA&amp;ll=37.405756,-121.984119&amp;spn=0.07706,0.110378&amp;z=13&amp;iwloc=A&amp;cid=7692218126025282565&amp;output=embed&amp;iwloc=near"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=faultline+brewery,+sunnyvale,+ca&amp;sll=37.737796,-122.414474&amp;sspn=0.009588,0.013797&amp;ie=UTF8&amp;hq=faultline+brewery,&amp;hnear=Sunnyvale,+CA&amp;ll=37.405756,-121.984119&amp;spn=0.07706,0.110378&amp;z=13&amp;iwloc=A&amp;cid=7692218126025282565" style="text-align:left">View Larger Map</a></small>
+      </div>
+      <p />
+    </body>
+  </article>
+
+  <article>
     <title>Next silisec: February 11th</title>
     <author>jvidrine</author>
     <date>2010-02-09</date>
