@@ -21,10 +21,10 @@
         </div>
         
         <div id="right_title">
-       		<!-- <a href="feed://silisec.org/atom.xml"><img src="img/rss_icon2" height="48" width="48" /></a> -->
-        	<a href="http://twitter.com/silisec"><img src="img/twitter_icon2" height="48" width="48" /></a>
-        	<a href="http://www.linkedin.com/groups?gid=2495246"><img src="img/linkedin_icon2" height="48" width="48" /></a>
-        	<a href="http://www.facebook.com/pages/silisec/117114884988003"><img src="img/facebook_icon2" height="48" width="48" /></a>
+       		<!-- <a href="feed://silisec.org/atom.xml"><img src="img/rss_icon2.png" height="48" width="48" /></a> -->
+        	<a href="http://twitter.com/silisec"><img src="img/twitter_icon2.png" height="48" width="48" /></a>
+        	<a href="http://www.linkedin.com/groups?gid=2495246"><img src="img/linkedin_icon2.png" height="48" width="48" /></a>
+        	<a href="http://www.facebook.com/pages/silisec/117114884988003"><img src="img/facebook_icon2.png" height="48" width="48" /></a>
         </div>
         
         <div class="clear"></div>

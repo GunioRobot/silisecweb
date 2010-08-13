@@ -4,9 +4,13 @@ XSLT    ?= xsltproc
 INSTALL ?= install
 SITE    ?= $(HOME)/Sites/silisec
 
+IMAGES += Facebook_icon.png linkedin-button.png rss_icon2.png
+IMAGES += Twitter_256x256.png linkedin_icon2.png twitter_icon2.png
+IMAGES += facebook_icon2.png rss2007.gif
+
 all: index.html atom.xml
 
-install: install-srcdir install-generated
+install: install-srcdir install-imgdir install-generated
 
 index.html: index.xsl index.xml articles.xml
 	$(XSLT) -o $@ --param articlesxml "'$(filter %articles.xml,$^)'" \
@@ -15,6 +19,10 @@ index.html: index.xsl index.xml articles.xml
 atom.xml: atom.xsl articles.xml
 	$(XSLT) -o $@ $< $(filter %articles.xml,$^)
 
+install-imgdir: $(foreach img,$(IMAGES),img/$(img))
+	$(INSTALL) -d -m 0755 $(SITE)
+	$(INSTALL) -d -m 0755 $(SITE)/img
+	$(INSTALL) -C -m 0644 $^ $(SITE)/img
 
 install-srcdir: main.css
 	$(INSTALL) -d -m 0755 $(SITE)
