@@ -5,26 +5,64 @@ body {
     font-size: medium;
 }
 
-#title {
-    color: white;
-    text-align: center;
-    font-size: x-large;
-}
-
-#subtitle {
-    text-align: center;
-    font-size: large;
+#wrap {
+	width:780px;
+	margin:0 auto;
 }
 
 #articles {
-    margin: 4ex;
+	float:left;
+	width:420px;
+    margin-top: 8ex;
 }
+
+#right_side {
+	margin-top: 8ex;
+	float:right;
+	width:300px;
+}
+
+#title {
+    color: white;
+    text-align: left;
+    font-size: x-large;
+}
+
+#calendar {
+    text-align: center;
+    margin-top: 1ex;
+}
+
+#subtitle {
+    text-align: left;
+    font-size: large;
+}
+
+#right_title {
+	float:right;
+	width:300px;
+	text-align: right;
+}
+
+#left_title {
+	float:left;
+	width:420px;
+}
+
+
+
+
 
 .article {
     border-color: #33ff00; /* green */
     border-width: 1px 0px 0px 0px;
     border-style: solid;
     padding-bottom: 4ex;
+}
+
+.heading {
+	text-align: left;
+	padding: 1ex 1ex 1ex 0ex;
 }
 
 .indent {
@@ -44,6 +82,11 @@ body {
 .footer {
     text-align: right;
     font-size: small;
+    clear:both;
+}
+
+.clear {
+    clear:both;
 }
 
 a:link, a:visited {

@@ -1,27 +1,68 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <html xmlns="http://www.w3.org/1999/xhtml">
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=us-ascii" />
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
     <title>This will be replaced by the title of the latest article.</title>
     <link rel="stylesheet" type="text/css" href="main.css" />
-    <link rel="alternate" type="application/rss+xml" title="silisec"
-	  href="atom.xml" />
-  </head>
-  <body>
-    <div id="title">silisec</div>
-    <div id="subtitle">Silicon Valley Security Meetup</div>
-    <div id="articles">
-      <div id="template">
-	<div class="article">
-	  <div class="article-title">Article title</div>
-	  <div class="article-body">Article body</div>
-	  <div class="article-byline">2009-04-12 by login</div>
-	</div>
-      </div>
+    <link rel="alternate" type="application/rss+xml" title="silisec" href="atom.xml" />
+</head>
+
+<body>
+    <div id="wrap">
+    
+    	<div id="left_title">
+	        <div id="title">
+	            silisec
+	        </div>
+	
+	        <div id="subtitle">
+	            Silicon Valley Security Meetup
+	        </div>
+        </div>
+        
+        <div id="right_title">
+       		<!-- <a href="feed://silisec.org/atom.xml"><img src="img/rss_icon2" height="48" width="48" /></a> -->
+        	<a href="http://twitter.com/silisec"><img src="img/twitter_icon2" height="48" width="48" /></a>
+        	<a href="http://www.linkedin.com/groups?gid=2495246"><img src="img/linkedin_icon2" height="48" width="48" /></a>
+        	<a href="http://www.facebook.com/pages/silisec/117114884988003"><img src="img/facebook_icon2" height="48" width="48" /></a>
+        </div>
+        
+        <div class="clear"></div>
+
+        <div id="right_side">
+            <div id="calendar">
+            <div class="heading">Bay Area Security Calendar</div>
+                <iframe src="http://www.google.com/calendar/embed?showNav=0&amp;showDate=0&amp;showPrint=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=280&amp;wkst=2&amp;bgcolor=%23000000&amp;src=417rb7rnb6cmdjdlv1mb0cnrfg%40group.calendar.google.com&amp;color=%23060D5E&amp;ctz=America%2FLos_Angeles" style=" border-width:0 " width="300" height="280" frameborder="0" scrolling="no"></iframe>
+            </div>
+			
+			<div class="heading">Map to FaultLine Brewery</div>
+            <div id="map">
+                <iframe width="300" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=faultline+brewery,+sunnyvale,+ca&amp;sll=37.737796,-122.414474&amp;sspn=0.009588,0.013797&amp;ie=UTF8&amp;hq=faultline+brewery,&amp;hnear=Sunnyvale,+CA&amp;ll=37.405756,-121.984119&amp;spn=0.07706,0.110378&amp;z=13&amp;iwloc=A&amp;cid=7692218126025282565&amp;output=embed&amp;iwloc=near"></iframe><br />
+                <small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=faultline+brewery,+sunnyvale,+ca&amp;sll=37.737796,-122.414474&amp;sspn=0.009588,0.013797&amp;ie=UTF8&amp;hq=faultline+brewery,&amp;hnear=Sunnyvale,+CA&amp;ll=37.405756,-121.984119&amp;spn=0.07706,0.110378&amp;z=13&amp;iwloc=A&amp;cid=7692218126025282565" style="text-align:left">View Larger Map</a></small>
+            </div>
+        </div>
+
+        <div id="articles">
+            <div id="template">
+                <div class="article">
+                    <div class="article-title">
+                        Article title
+                    </div>
+
+                    <div class="article-body">
+                        Article body
+                    </div>
+
+                    <div class="article-byline">
+                        2009-04-12 by login
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="footer">
+            Copyright © 2010 by <a href="http://github.com/nectar/silisecweb/">some folks</a>.
+        </div>
     </div>
-    <div class="footer">
-      Copyright © 2009 by
-      <a href="http://github.com/nectar/silisecweb/">some folks</a>.
-    </div>
-  </body>
+</body>
 </html>
