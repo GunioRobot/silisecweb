@@ -2,6 +2,19 @@
 <articles xmlns="http://silisec.org/apps/article-1">
 
   <article>
+    <title>Next silisec: December 2nd</title>
+    <author>jvidrine</author>
+    <date>2010-11-30</date>
+    <body xmlns="http://www.w3.org/1999/xhtml">
+      <p>Time for another <em>silisec</em> meetup!  See you
+      around <strong>7pm on Thursday December 2nd</strong> at
+      <a href="http://www.faultlinebrewing.com/">the Faultline
+      Brewing Company</a> in Sunnyvale. <a
+      href="http://www.facebook.com/event.php?eid=145824385466117">(Facebook)</a></p>
+    </body>
+  </article>
+
+  <article>
     <title>Next silisec: September 2nd</title>
     <author>jvidrine</author>
     <date>2010-09-01</date>
