@@ -49,8 +49,11 @@ body {
 	width:420px;
 }
 
-
-
+#error {
+    text-align: left;
+    font-size: x-large;
+    height: 400px;
+}
 
 
 .article {

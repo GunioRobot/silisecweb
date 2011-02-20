@@ -24,7 +24,7 @@ install-imgdir: $(foreach img,$(IMAGES),img/$(img))
 	$(INSTALL) -d -m 0755 $(SITE)/img
 	$(INSTALL) -C -m 0644 $^ $(SITE)/img
 
-install-srcdir: main.css
+install-srcdir: main.css error.html
 	$(INSTALL) -d -m 0755 $(SITE)
 	$(INSTALL) -C -m 0644 $^ $(SITE)
 
