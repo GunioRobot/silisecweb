@@ -2,6 +2,20 @@
 <articles xmlns="http://silisec.org/apps/article-1">
 
   <article>
+    <title>Next silisec: March 3rd</title>
+    <author>jvidrine</author>
+    <date>2011-02-21</date>
+    <body xmlns="http://www.w3.org/1999/xhtml">
+      <p>Shamrocks and leprechauns will arrive soon, but not before
+      the next <em>silisec</em> meetup! See you around <strong>7pm
+      on Thursday March 3rd</strong> at
+      <a href="http://www.faultlinebrewing.com/">the Faultline
+      Brewing Company</a> in Sunnyvale. <a
+      href="https://www.facebook.com/event.php?eid=165257436857632">(Facebook)</a></p>
+    </body>
+  </article>
+
+  <article>
     <title>Next silisec: February 3rd</title>
     <author>jvidrine</author>
     <date>2011-01-24</date>
