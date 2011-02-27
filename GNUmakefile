@@ -37,4 +37,4 @@ install-generated: index.html atom.xml older.html
 	$(INSTALL) -C -m 0644 $^ $(SITE)
 
 clean:
-	rm -f index.html atom.xml older.xml
+	rm -f index.html older.html atom.xml
