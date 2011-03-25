@@ -2,6 +2,17 @@
 <articles xmlns="http://silisec.org/apps/article-1">
 
   <article>
+    <title>Next silisec: April 7th</title>
+    <author>bhardin</author>
+    <date>2011-03-25</date>
+    <body xmlns="http://www.w3.org/1999/xhtml">
+      <p>This is not an April Fools Joke. Silisec will be at 
+      <a href="http://www.faultlinebrewing.com/">the Faultline
+      Brewing Company</a> in Sunnyvale.</p>
+    </body>
+  </article>
+  
+  <article>
     <title>Next silisec: March 3rd</title>
     <author>jvidrine</author>
     <date>2011-02-21</date>
