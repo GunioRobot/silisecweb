@@ -36,5 +36,8 @@ install-generated: index.html atom.xml older.html
 	$(INSTALL) -d -m 0755 $(SITE)
 	$(INSTALL) -C -m 0644 $^ $(SITE)
 
+upload: upload.sh
+	sh "$(realpath $<)" "$(SITE)"
+
 clean:
 	rm -f index.html older.html atom.xml
