@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <articles xmlns="http://silisec.org/apps/article-1">
 
+	<article>
+    <title>Next silisec: May 5th</title>
+    <author>bhardin</author>
+    <date>2011-05-02</date>
+    <body xmlns="http://www.w3.org/1999/xhtml">
+      <p>Come celebrate Cinco de Mayo. Silisec will be at 
+      <a href="http://www.faultlinebrewing.com/">the Faultline
+      Brewing Company</a> in Sunnyvale.</p>
+    </body>
+  </article>
+
   <article>
     <title>Next silisec: April 7th</title>
     <author>bhardin</author>
