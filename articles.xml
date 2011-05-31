@@ -2,6 +2,19 @@
 <articles xmlns="http://silisec.org/apps/article-1">
 
   <article>
+    <title>Next silisec: June 2nd</title>
+    <author>jvidrine</author>
+    <date>2011-05-31</date>
+    <body xmlns="http://www.w3.org/1999/xhtml">
+      <p>The June <em>silisec</em> meetup is around <strong>7pm
+      on June 2nd</strong> at
+      <a href="http://www.faultlinebrewing.com/">the Faultline
+      Brewing Company</a> in Sunnyvale. <a
+      href="https://www.facebook.com/event.php?eid=101835773242169">(Facebook)</a></p>
+    </body>
+  </article>
+
+  <article>
     <title>Next silisec: May 5th</title>
     <author>jvidrine</author>
     <date>2011-04-05</date>
